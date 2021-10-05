@@ -1,3 +1,0 @@
-A2.py file trains the neural network and saves the weight matrix to a txt file to be used later. I chose to do this because training took a long time, so storing the
-output matrix to a txt file that can be read allows me to not have to retrain the system and spend hours waiting. Once training is complete, A2_2.py reads the 
-weight matrices from their txt files and uses those to assess the models performance on both the training and testing data
